@@ -126,6 +126,7 @@ export default function Page() {
 
       alert("Transaction สำเร็จ");
 
+      location.reload();
       /*
        * Refresh balance หลังซื้อ
        */
